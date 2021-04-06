@@ -1,0 +1,42 @@
+body 
+{
+    text-align: center;
+    background-color: #fff56b;
+}
+
+div
+{
+  margin-top: 15px;  
+}
+
+.img-sec
+{
+    display: flex;
+    justify-content: center;
+}
+
+.sec-style
+{
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+p
+{
+    font-size: 10px;
+    font-family: monospace;
+    padding: inherit;
+}
+
+#i1
+{
+    width: 200px;
+    height: 200px;
+}
+
+#i2 
+{
+    width: 250px;
+    height: 200px;
+}
